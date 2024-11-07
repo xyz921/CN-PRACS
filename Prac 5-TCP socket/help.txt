@@ -1,0 +1,1 @@
+run server.py in vscode and client.py in cmd
